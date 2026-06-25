@@ -9,9 +9,10 @@ export default function About() {
           </div>
           <div className="col-md-8">
             <p className="about-text">
-              I'm a Computer Science student with hands-on experience in HTML, JavaScript, Python, and PHP —
-              built over 3 years of coursework and personal projects. I'm currently growing my React.js skills
-              and exploring modern full-stack development to apply in my future career.
+              I want to develop strong communication and teamwork abilities through active participation
+              in team meeting and collaborative problem-solving sessions. I am gaining hand-on experience
+              with a  focus on collaborating with experienced professionals to deepen my understanding of 
+              agile methodologies and best practices in many working skills.
             </p>
           </div>
         </div>
