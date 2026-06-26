@@ -1,8 +1,8 @@
 const PROJECTS = [
-  { title: 'PHP: Mah Express', tech: 'PHP · MySQL · HTML · Bootstrap', url: 'https://github.com/MZmixZerZ/mah-express' },
-  { title: 'Game 2D: Fake Street Fighter', tech: 'HTML · JavaScript · Canvas', url: 'https://github.com/MZmixZerZ/Game2D-fake-street-fighter' },
+  { title: 'Full stack: Stock trading game simulation', tech: 'React.js · Node.js · Supabase · JavaScript', url: 'https://github.com/MZmixZerZ/trading-game' },
+  { title: 'Full stack: HCU Complaint management system', tech: 'React.js · Node.js · Firebase · JavaScript', url: 'https://github.com/MZmixZerZ/report-hcu' },
   { title: 'Python: Malware Detection', tech: 'Python · HTML · Discord Bot', url: 'https://github.com/MZmixZerZ/malwareDetection' },
-  { title: 'Full Stack: Student App & LINE API', tech: 'Angular · NestJS · LINE Messaging API · MySQL', url: 'https://github.com/MZmixZerZ/student-app-final' },
+  { title: 'Frontend: Game2D-fake-street-fighter', tech: 'HTML · CSS · JavaScript', url: 'https://github.com/MZmixZerZ/Game2D-fake-street-fighter' },
 ]
 
 export default function Projects() {

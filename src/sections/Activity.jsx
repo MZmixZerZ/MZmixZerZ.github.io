@@ -14,13 +14,14 @@ const ACTIVITIES = [
       { src: '/image/image1.jpg', alt: 'Regional Pitching' },
     ],
   },
+  
 ]
 
 export default function Activity() {
   return (
-    <section id="activity" className="section-activity fade-section">
+    <section className="section-activity">
       <div className="container">
-        <h2 className="section-title">Activities</h2>
+        <h2 className="section-title text-center">Activities</h2>
         <ul className="list-unstyled activity-list">
           {ACTIVITIES.map(({ desc, event, date, images }) => (
             <li key={event} className="activity-item">
